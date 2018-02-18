@@ -13,11 +13,11 @@ function yourAnimal() {
 }
 
 function add2(n) {
-
-
-  // Feel free to move things around!
+// Feel free to move things around!
   const two = 2
-  return parseInt(n) + two}
+  return parseInt(n) + two
+  
+}
 
 var funkyFunction = function() {
   return function() {
